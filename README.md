@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KirboLirbo
-- 👀 I’m interested in Minecraft, Discord Bots, Unity
-- 🌱 I’m currently learning C# (4 years), Python (1 year, haven't really used much in last 4 years), Java (since now)
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Kirbo#1124
+- 👀 I’m interested in Minecraft (Hypixel), Discord Bots, Unity, Networking, Terraria, Stardew Valley
+- 🌱 I’m currently learning C# (4 years but for the first 2 or 3 I was a stupid child), Python (5 years but I don't use it very often), Java (since now)
+- 💞️ I’m looking to collaborate on skyblock mods maybe?
+- 📫 How to reach me Kirbo#1124 on Discord, join this server first
 
 <!---
 KirboLirbo/KirboLirbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
