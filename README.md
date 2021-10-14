@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirboLirbo
-- 👀 I’m interested in Minecraft (Hypixel), Discord Bots, Unity, Networking, Terraria, Stardew Valley, Deleting Old and Also Bad Repos
-- 🌱 I’m currently learning C# (4 years but for the first 2 or 3 I was a stupid child), Python (5 years but I don't use it very often), Java (since now)
+- 👀 I’m interested in Minecraft (Hypixel), Discord Bots, Unity, Networking, Terraria, Stardew Valley, Brainfuck
+- 🌱 I’m currently learning C# (4 years), Java, Python
 - 💞️ I’m looking to collaborate on skyblock mods maybe?
 - 📫 How to reach me Kirbo#1124 on Discord, send me a DM not just a friend request (I will block you)
 
